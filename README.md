@@ -8,11 +8,13 @@ Dataset: kaggle
 
 
 Methodology:
+     
      1. Data Preprocessing
      2.Model selection
 
 
 Requirements:
+     
      1.python
      2.numpy
      3.pandas
@@ -22,5 +24,6 @@ Requirements:
 
 
 Models:
+     
      1.Linear Regression
      2.Random Forest
